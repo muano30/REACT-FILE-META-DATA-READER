@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+li{
+  list-style: none;
+}
+
+input{
+  border: 1px solid black;
+  border-radius: 0.2rem;
+}
+
+button{
+  height: 1.4rem;
+  margin-left: 1rem;
+}
+
+p{
+  border: 1px solid black;
+  margin-left: 15%;
+  margin-right: 20%;
+  padding: 1rem;
+}
